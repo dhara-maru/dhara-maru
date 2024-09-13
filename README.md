@@ -1,4 +1,4 @@
-# 🙋 About Me:
+# 🌠 About Me:
 Hi! I'm Dhara,<br>
 🎓 **Currently Pursuing MCA** with a passion for technology and continuous learning.<br>💻 **Learning Frontend Development**: HTML, CSS, JavaScript & Flutter.<br>🐍 **Currently studying Python and Django** for backend development.<br>🎨 **Interested in UI/UX Design** to create user-friendly interfaces.<br>🌱 **Always open to learning** new technologies and collaborating on projects.<br>📫 **Connect with me:** dharamaru406@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhara-maru/)<br>
 
