@@ -3,7 +3,7 @@ Hi! I'm Dhara,<br>
 🎓 **Currently Pursuing MCA** with a passion for technology and continuous learning.<br>💻 **Learning Frontend Development**: HTML, CSS, JavaScript & Flutter.<br>🐍 **Currently studying Python and Django** for backend development.<br>🌱 **Always open to learning** new technologies and collaborating on projects.<br>📫 **Connect with me:** dharamaru406@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhara-maru/)<br>
 
 
-## 📱 Socials:
+# 📱 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/dharamaru1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhara-maru/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/https://x.com/DharaMaru6) 
 
 # 💻 Tech Stack:
@@ -14,8 +14,8 @@ Hi! I'm Dhara,<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhara-maru&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhara-maru&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhara-maru&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
-### 🚀 Top Contributed Repo
+##🚀 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dhara-maru&limit=5&theme=aura&combine_all_yearly_contributions=true)
