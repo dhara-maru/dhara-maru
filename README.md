@@ -1,6 +1,9 @@
 ### 🌠 About Me:
 Hi! I'm Dhara,<br>
-Pursuing MCA 🎓, focusing on frontend development 💻, and open to learning new technologies 🌱 and collaboration 🤝. **Connect with me:** dharamaru406@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhara-maru/)<br>
+<ul><li>Pursuing MCA</li>
+  <li>Focusing on frontend development</li>
+  <li>Open to learning new technologies 🌱 and collaboration</li></ul>
+**Connect with me:** dharamaru406@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhara-maru/)<br>
 
 
 ### 📱 Socials:
