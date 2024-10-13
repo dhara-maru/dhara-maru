@@ -3,7 +3,7 @@ Hi! I'm Dhara,<br>
 <ul><li>Pursuing MCA</li>
   <li>Focusing on frontend development</li>
   <li>Open to learning new technologies 🌱 and collaboration</li></ul>
-**Connect with me:** dharamaru406@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhara-maru/)<br>
+<b>Connect with me:</b> dharamaru406@gmail.com | [LinkedIn](https://www.linkedin.com/in/dhara-maru/)<br>
 
 
 ### 📱 Socials:
