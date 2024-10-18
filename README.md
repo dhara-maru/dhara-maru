@@ -1,5 +1,5 @@
 ### 🌠 About Me:
-Hi! I'm Dhara,<br>
+Hi! I'm Dhara,<br,>
 <ul><li>Pursuing MCA</li>
   <li>Focusing on frontend development</li>
   <li>Open to learning new technologies 🌱 and collaboration</li></ul>
@@ -14,4 +14,4 @@ Hi! I'm Dhara,<br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=dhara-maru&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhara-maru&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhara-maru&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<br>
