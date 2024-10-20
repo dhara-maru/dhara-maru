@@ -1,5 +1,5 @@
 ### 🌠 About Me:
-Hi! I'm Dhara,<br,>
+Hi! I'm Dhara,
 <ul><li>Pursuing MCA</li>
   <li>Focusing on frontend development</li>
   <li>Open to learning new technologies 🌱 and collaboration</li></ul>
