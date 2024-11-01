@@ -1,4 +1,4 @@
-### 🌠 About Me:
+### 🪐 About Me:
 Hi! I'm Dhara,
 Focusing on frontend development and open to learning new technologies when I'm not watching films.
 
