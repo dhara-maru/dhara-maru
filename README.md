@@ -1,3 +1,5 @@
+<div style="background-color:#3d002e;padding:20px;color:#fff;">
+
 <h1 align="center">🚀 Dhara M. - Full Stack Developer & Creative Designer</h1>
 <p align="center">🪼 Turning ideas into digital reality with code and creativity!</p>
 
@@ -87,3 +89,5 @@
   &nbsp;&nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhara-maru.dhara-maru&left_color=darkmagenta&right_color=hotpink" alt="Visitor Badge" />
 </p>
+
+</div>
