@@ -5,10 +5,9 @@
 
 <br/>
 
-<!-- Portfolio Button -->
-<p align="center" style="margin-top: 10px;">
-  <a href="https://dhara46.framer.website/" target="_blank" style="background-color:#ff69b4;color:#fff;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:16px;display:inline-block;">
-    🍭 Visit My Portfolio
+<p align="center">
+  <a href="https://dhara46.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/🍭 Visit My Portfolio-ff69b4?style=for-the-badge&logo=framer&logoColor=white&labelColor=3d002e" alt="Portfolio Button" />
   </a>
 </p>
 
