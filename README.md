@@ -5,6 +5,15 @@
 
 <br/>
 
+<!-- Portfolio Button -->
+<p align="center" style="margin-top: 10px;">
+  <a href="https://dhara46.framer.website/" target="_blank" style="background-color:#ff69b4;color:#fff;padding:10px 20px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:16px;display:inline-block;">
+    🍭 Visit My Portfolio
+  </a>
+</p>
+
+<br/>
+
 <!-- Coding GIF (Full Width) -->
 <p align="center">
   <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%" alt="coding gif" />
