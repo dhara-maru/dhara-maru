@@ -65,7 +65,7 @@
 ## 🧚🏻‍♀️ Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhara-maru&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhara-maru&radius=16&theme=tokyo-night&area=true&order=5&line=FFC0CB&area_color=E75480&point=ffffff&hide_border=true" height="300" alt="activity-graph graph"  />
 </p>
 
 ---
