@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Dhara Maru - Full Stack Developer & Creative Designer</h1>
-<p align="center">✨ Turning ideas into digital reality with code and creativity ✨</p>
+<h1 align="center">🚀 Dhara M. - Full Stack Developer & Creative Designer</h1>
+<p align="center">🪼 Turning ideas into digital reality with code and creativity!</p>
 
 <br/>
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🦖 About Me
 
-- 🔹 **Full Stack Expertise**: JavaScript | TypeScript | Next.js | PostgreSQL | Laravel  
-- 🔹 **Design Skills**: UI/UX Design with Figma 🎨  
-- 🔹 **Continuous Learner**: Always exploring new technologies and frameworks 📚  
+- 🌆 **Full Stack Dev**: JavaScript | TypeScript | Next.js | PostgreSQL | Laravel  
+- 🧁 **Design Skills**: UI/UX Design with Figma 🎨  
+- 🩷 **Continuous Learner**: Always exploring new technologies and frameworks 📚  
 
 ---
 
-## 🛠 Tech Stack
+## 🦩 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🤖 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhara-maru/" target="_blank">
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 Stats
+## 👾 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhara-maru&locale=en&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## 🧚🏻‍♀️ Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhara-maru&bg_color=1a1b27&color=38bdae&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -70,20 +70,22 @@
 
 ---
 
-## 🟡 Contribution Heatmap
+## 🦄 Contribution Heatmap
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg" width="100%" alt="Contribution Heatmap">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg" width="100%" alt="Contribution Heatmap">
+  </picture>
+</p>
 
 ---
 
-## 🎧 Spotify & Visitors
+## 🎧 Spotify & 🩰 Visitors
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vuyiqm7gaaztkizfwy3kj422cq&count=1&width=400" alt="Spotify recently played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vuyiqm7gaaztkizfwy3kj422cq" width="400" alt="Spotify Recently Played" />
   &nbsp;&nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhara-maru.dhara-maru&left_color=darkmagenta&right_color=hotpink" alt="visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhara-maru.dhara-maru&left_color=darkmagenta&right_color=hotpink" alt="Visitor Badge" />
 </p>
