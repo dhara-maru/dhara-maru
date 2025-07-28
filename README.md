@@ -72,13 +72,11 @@
 
 ## 🦄 Contribution Heatmap
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg" width="100%" alt="Contribution Heatmap">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhara-maru/dhara-maru/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
