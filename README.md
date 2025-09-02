@@ -43,11 +43,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express.js" />
-  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" />
-  <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original-wordmark.svg" height="40" alt="Framer" />
 </p>
 
 ---
