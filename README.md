@@ -22,7 +22,7 @@
 
 ## 🦖 About Me
 
-- 🌆 **Full Stack Dev**: JavaScript | TypeScript | Next.js | PostgreSQL | Laravel  
+- 🌆 **Full Stack Dev**: JavaScript | TypeScript | Next.js | PostgreSQL | Node JS 
 - 🧁 **Design Skills**: UI/UX Design with Figma 🎨  
 - 🩷 **Continuous Learner**: Always exploring new technologies and frameworks 📚  
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </p>
