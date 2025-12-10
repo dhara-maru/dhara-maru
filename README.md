@@ -1,4 +1,4 @@
-<div style="background-color:#3d002e;padding:20px;color:#fff;">
+<!-- <div style="background-color:#3d002e;padding:20px;color:#fff;">
 
 <h1 align="center">🚀 Dhara M. - Full Stack Developer & Creative Designer</h1>
 <p align="center">🪼 Turning ideas into digital reality with code and creativity!</p>
@@ -13,7 +13,7 @@
 
 <br/>
 
-<!-- Coding GIF (Full Width) -->
+<!-- Coding GIF (Full Width) 
 <p align="center">
   <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" width="100%" alt="coding gif" />
 </p>
@@ -97,4 +97,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dhara-maru.dhara-maru&left_color=darkmagenta&right_color=hotpink" alt="Visitor Badge" />
 </p>
 
-</div>
+</div> -->
